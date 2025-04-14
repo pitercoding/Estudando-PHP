@@ -1,4 +1,4 @@
-# 🐘 Exercícios de PHP para Iniciantes
+# 🐘 Exercícios de PHP
 
 Este repositório contém uma coleção de exercícios desenvolvidos em **PHP** com o objetivo de consolidar os fundamentos da linguagem e lógica de programação. Os arquivos aqui presentes fazem parte da jornada de aprendizado de um estudante de **Ciência da Computação**, utilizando **VS Code** e como servidor local o **XAMPP**.
 
@@ -16,7 +16,6 @@ Este repositório foi criado como parte de um estudo contínuo da linguagem PHP.
 
 Os exercícios foram feitos com simplicidade e clareza para reforçar o aprendizado. Eles servem tanto como referência quanto como base para novos desafios que virão com o avanço dos estudos.
 
----
 
 ## 💻 Tecnologias Utilizadas
 
@@ -25,7 +24,6 @@ Os exercícios foram feitos com simplicidade e clareza para reforçar o aprendiz
 - **VS Code** como editor de código
 - **Servidor local** (XAMPP)
 
----
 
 ## 📂 Como Executar os Exercícios
 
@@ -44,7 +42,7 @@ Os exercícios foram feitos com simplicidade e clareza para reforçar o aprendiz
    http://localhost/exercicios-php/
    ```
 
----
+
 ## 🚀 Próximos Passos
 À medida que o aprendizado evolui, este repositório será atualizado com:
 
@@ -54,17 +52,14 @@ Os exercícios foram feitos com simplicidade e clareza para reforçar o aprendiz
 * Conexão com banco de dados MySQL
 * Criação de páginas dinâmicas com PHP
 
----
 
 ## 🤝 Contribuições
 Se você também está aprendendo PHP e quer contribuir, fique à vontade para abrir uma issue, propor melhorias ou compartilhar novos exercícios!
 
----
 
 ## 📄 Licença
 Este projeto está licenciado sob a MIT License – consulte o arquivo LICENSE para mais detalhes.
 
----
 
 ## Feito com dedicação por um estudante em constante aprendizado.
 📘 *"A prática leva ao domínio."*
