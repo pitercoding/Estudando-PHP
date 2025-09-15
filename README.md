@@ -1,8 +1,6 @@
-# 🐘 Exercícios de PHP
+# 🐘 Lógica de Programação em PHP
 
 Este repositório contém uma coleção de exercícios desenvolvidos em **PHP** com o objetivo de consolidar os fundamentos da linguagem e lógica de programação. Os arquivos aqui presentes fazem parte da jornada de aprendizado de um estudante de **Ciência da Computação**, utilizando **VS Code** e como servidor local o **XAMPP**.
-
----
 
 ## 🎯 Objetivo
 
